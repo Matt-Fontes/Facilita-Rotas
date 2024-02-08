@@ -12,13 +12,19 @@ Um facilitador para encontrar a melhor rota para visitar diversos clientes e vol
 | reactjs    | 18.12.0 |
 | antd       | 5.14.0  |
 
-##### Server:
+#### Server:
 
 | Tecnologia    | Versão  |
 | ------------- | ------- |
 | nodejs        | 16.15.0 |
 | expressjs     | 4.18.2  |
-| postgres (pg) | 8.11.3  |
+| pg | 8.11.3  |
+
+#### Database
+
+| Tecnologia    | Versão  |
+| ------------- | ------- |
+| PostgreSQL        | 16.1 |
 
 ## Como Executar
 
